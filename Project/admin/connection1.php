@@ -1,8 +1,9 @@
 <?php
-            $servername = "localhost";//connection to the database for outside sourced open data
-            $username = "tokola_3340";
-            $password = "tokola135";
-            $dbname = "tokola_3340";
+    //connection to database
+    $servername = "localhost";
+    $username = "abeygunj_users";
+    $password = "projectteam10";
+    $dbname = "abeygunj_users";
 
     // Create connection
     $con = new mysqli($servername, $username, $password, $dbname);
