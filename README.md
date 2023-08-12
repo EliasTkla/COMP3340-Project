@@ -13,4 +13,4 @@ The 'public_site' folder holds the public version of the site that doesn't requi
 The free files within the Project folder are for the logged in user.
 
 
-Live Site Link: https://tokola.myweb.cs.uwindsor.ca/COMP-3340/Project/public_site/pindex.html
+Live Site Link: https://tokola.myweb.cs.uwindsor.ca/COMP-3340/project/public_site/pindex.html
